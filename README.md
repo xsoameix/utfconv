@@ -1,6 +1,6 @@
 # utfconv
 
-utfconv is the fast way to convert []byte to string
+utfconv is the fast way to convert []byte to string by chooing charset
 
 ## Installation
 
